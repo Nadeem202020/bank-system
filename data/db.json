@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Ezabelle Joseph",
+      "email": "ezabelle.joseph@example.com",
+      "currentBalance": 91
+    },
+    {
+      "id": "2",
+      "name": "Robert Johnson",
+      "email": "robert.johnson@example.com",
+      "currentBalance": 504
+    },
+    {
+      "id": "3",
+      "name": "Sophia Patel",
+      "email": "sophia.patel@example.com",
+      "currentBalance": 210
+    },
+    {
+      "id": "4",
+      "name": "Michael Lee",
+      "email": "michael.lee@example.com",
+      "currentBalance": 75
+    },
+    {
+      "id": "5",
+      "name": "Olivia Brown",
+      "email": "olivia.brown@example.com",
+      "currentBalance": 150.75
+    },
+    {
+      "id": "6",
+      "name": "Alexander White",
+      "email": "alexander.white@example.com",
+      "currentBalance": 300
+    },
+    {
+      "id": "7",
+      "name": "Isabella Davis",
+      "email": "isabella.davis@example.com",
+      "currentBalance": 25.5
+    },
+    {
+      "id": "8",
+      "name": "Ethan Martin",
+      "email": "ethan.martin@example.com",
+      "currentBalance": 100
+    },
+    {
+      "id": "9",
+      "name": "Lily Taylor",
+      "email": "lily.taylor@example.com",
+      "currentBalance": 45
+    },
+    {
+      "id": "10",
+      "name": "Jackson Hall",
+      "email": "jackson.hall@example.com",
+      "currentBalance": 250.25
+    }
+  ]
+}
